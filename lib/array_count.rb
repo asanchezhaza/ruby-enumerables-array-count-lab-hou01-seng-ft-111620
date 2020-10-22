@@ -18,6 +18,7 @@ def count_empty_strings(array)
     if element.length == 0
     end
    end
+   
  
 
  
