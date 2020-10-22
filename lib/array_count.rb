@@ -15,10 +15,10 @@ def count_empty_strings(array)
  if 
 
  p element.class != String && Integer
-   element
+   
  end
 
- p array
+ 
 
 end
   
