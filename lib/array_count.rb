@@ -14,7 +14,7 @@ def count_empty_strings(array)
   array.count do |element|
   
 
-  element.class == String.empty
+  element.class == String.empty?
 
 end
   
