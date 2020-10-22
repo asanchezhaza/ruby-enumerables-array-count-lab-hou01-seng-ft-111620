@@ -14,7 +14,7 @@ def count_empty_strings(array)
   array.count do |element|
  if 
 
- p element.class != String || Integer
+ p element.class != String && Integer
    element
  end
 
